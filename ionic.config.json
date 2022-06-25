@@ -1,0 +1,8 @@
+{
+  "name": "Gorgova News",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "4fcb16a9"
+}

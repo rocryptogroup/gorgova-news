@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Gorgova News",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
