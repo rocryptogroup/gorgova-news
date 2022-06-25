@@ -17,7 +17,7 @@ const Tab3: React.FC = () => {
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="" />
-		<iframe title="M" src="https://realitateafm.net/radiochannel/realitatea-fm/" width="100%" height="100%">Browser not compatible.</iframe>
+		<iframe title="M" src="https://realitateafm.net/radiochannel/realitatea-fm/" width="100%" height="100%" scrolling="no" >Browser not compatible.</iframe>
       </IonContent>
     </IonPage>
   );
