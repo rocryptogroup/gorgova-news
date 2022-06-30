@@ -18,7 +18,16 @@ const Tab3: React.FC = () => {
         </IonHeader>
         <ExploreContainer name="" />
 
-		<iframe title="Contact" src="https://gorgova.ro/contact/" width="100%" height="100%" scrolling="yes" >Browser not compatible. Please Contact Owner admin@gorgova.ro</iframe>
+
+	<h1>www.Gorgova.ro</h1>
+	<a>admin@gorgova.ro</a><p></p>
+
+
+	<div>Sat Gorgova, Comuna </div>
+	<div>Maliuc, Judetul Tulcea,</div>
+	<div>Str Dunarii, No 33, Romania</div>
+
+
       </IonContent>
     </IonPage>
   );
