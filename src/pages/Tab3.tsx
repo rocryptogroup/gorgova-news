@@ -7,17 +7,18 @@ const Tab3: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Live</IonTitle>
+          <IonTitle>Contact</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Live</IonTitle>
+            <IonTitle size="large"></IonTitle>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="" />
-		<iframe title="M" src="https://realitateafm.net/radiochannel/realitatea-fm/" width="100%" height="100%" scrolling="no" >Browser not compatible.</iframe>
+
+		<iframe title="Contact" src="https://gorgova.ro/contact/" width="100%" height="100%" scrolling="yes" >Browser not compatible. Please Contact Owner admin@gorgova.ro</iframe>
       </IonContent>
     </IonPage>
   );

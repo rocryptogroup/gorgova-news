@@ -7,18 +7,18 @@ const Tab2: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Cotele Apelor Dunarii</IonTitle>
+          <IonTitle>Adancimi Minime Efective</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
         <IonHeader collapse="condense">
           <IonToolbar>
-            <IonTitle size="large">Tab 2</IonTitle>
+            <IonTitle size="large"></IonTitle>
           </IonToolbar>
         </IonHeader>
         <ExploreContainer name="" />
 
-	<iframe title="Cotele Apelor Dunarii" src="https://gorgova.ro/cotele-apelor-dunarii/" width="100%" height="100%">Browser not compatible.</iframe>
+	<iframe title="Adancimi Minime Efective" src="https://www.afdj.ro/sites/default/files/adancimisub4metri.pdf" width="100%" height="100%">Browser not compatible. Please Contact Owner admin@gorgova.ro</iframe>
 
       </IonContent>
     </IonPage>

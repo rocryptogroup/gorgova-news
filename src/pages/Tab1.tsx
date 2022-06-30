@@ -7,7 +7,7 @@ const Tab1: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Anunturi</IonTitle>
+          <IonTitle>Cotele Apelor Dunarii</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
@@ -18,7 +18,7 @@ const Tab1: React.FC = () => {
         </IonHeader>
         <ExploreContainer name="" />
 
-	<iframe title="Anunturi" src="https://gorgova.ro/anunturi/" width="100%" height="100%">Browser not compatible.</iframe>
+	<iframe title="Cotele Apelor Dunarii" src="https://www.afdj.ro/sites/default/files/bhcote.pdf" width="100%" height="100%">Browser not compatible. Please Contact Owner admin@gorgova.ro</iframe>
 	
       </IonContent>
     </IonPage>
